@@ -38,19 +38,16 @@ Passionate Developer | Computer Science Student | Code Enthusiast
 - Atomic Habits
 - The Communist Manifesto by Karl Marx
 
-🎵 Currently Listening To:
-
-[![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/your-spotify-user)
+🔍 Find me on Spotify 🎧
 
 ![Spotify](https://spotify-github-profile.vercel.app/api/view.svg?uid=m7pgzm5bhxv60wgms763amh4i&redirect=true)
 
-
+🎵 Currently Listening To:
 ![Spotify](https://spotify-github-profile.vercel.app/api/view.svg?uid=m7pgzm5bhxv60wgms763amh4i&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true)
-[[https://spotify-github-profile.vercel.app/api/view.svg?uid=m7pgzm5bhxv60wgms763amh4i&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=m7pgzm5bhxv60wgms763amh4i&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true)]]
 
 ## 🌟 My GitHub Stats
 
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=ayoungmanwithanoldsoul&show_icons=true&theme=radical)
 
 ## 📚 My Projects
 

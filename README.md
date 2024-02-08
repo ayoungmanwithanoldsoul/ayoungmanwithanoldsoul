@@ -40,12 +40,11 @@ Passionate Developer | Computer Science Student | Code Enthusiast
 
   
 
-## 🔍 Find me on ![Spotify](https://spotify-github-profile.vercel.app/api/view.svg?uid=m7pgzm5bhxv60wgms763amh4i&redirect=true) 🎧
+## 🔍 Find me on ![Spotify](https://open.spotify.com/user/m7pgzm5bhxv60wgms763amh4i) 🎧
 
 
 
-##🎵 Currently Listening To:
-
+## 🎵 Currently Listening To
 ![Spotify](https://spotify-github-profile.vercel.app/api/view.svg?uid=m7pgzm5bhxv60wgms763amh4i&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true)
 
 ## 🌟 My GitHub Stats

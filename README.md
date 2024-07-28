@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Paolo Andrew Pomar!
+# 👋 Hi there, I'm Paolo Pomar!
 
 Passionate Developer | Computer Science Student | Code Enthusiast
 

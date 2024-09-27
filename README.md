@@ -15,6 +15,9 @@ Passionate Developer | Computer Science Student | Code Enthusiast
 - C
 - Java
 - DBMS
+- Flutter Framework
+- Dart
+- Powershell scripts
 
 📖 Some books I've enjoyed:
 

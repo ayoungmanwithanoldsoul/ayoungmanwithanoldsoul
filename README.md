@@ -2,7 +2,7 @@
 
 Passionate Developer | Computer Science Student | Code Enthusiast
 
-📚 Currently pursuing a BS in Computer Science at the University of Mindanao.
+📚 Currently pursuing a BS in Computer Science.
 
 🚀 Juggling work and school while exploring the vast world of programming.
 
@@ -14,10 +14,11 @@ Passionate Developer | Computer Science Student | Code Enthusiast
 - Python, Automation using Selenium
 - C
 - Java
-- DBMS
+- DBMS, SQL, SQLite
 - Flutter Framework
 - Dart
 - Powershell scripts
+- Power Automate
 
 📖 Some books I've enjoyed:
 
